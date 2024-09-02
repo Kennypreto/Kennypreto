@@ -8,7 +8,7 @@
 
 "00001114587667sp@al.educacao.sp.gov.br"
 
-![](https://tenor.com/u2eDgSlzPOp.gif)
+![](https://images.app.goo.gl/iJn8CATi7DrGtHGy8)
 
 
 <!--
