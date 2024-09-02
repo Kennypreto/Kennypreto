@@ -1,4 +1,15 @@
-## Hi there 👋
+ Olá meu nome é Ana, Bem vindo ao meu perfil!
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+### você pode entrar em contato comigo pelo meu gmail! 📫
+
+"00001114587667sp@al.educacao.sp.gov.br"
+
+![](https://tenor.com/u2eDgSlzPOp.gif)
+
 
 <!--
 **Kennypreto/Kennypreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
