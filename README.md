@@ -1,4 +1,4 @@
- Olá meu nome é Ana, Bem vindo ao meu perfil!
+🌸🩷 Olá meu nome é Ana, Bem vindo ao meu perfil!
 
 -Estou me desenvolvendo na linguagem JavaScript
 
